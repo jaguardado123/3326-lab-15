@@ -1,4 +1,4 @@
-# Lab Assignment 16
+# Lab Assignment 15
 
 In this lab you will practice working with recursion.
 
