@@ -89,10 +89,9 @@ For your assignment, create your own `pow(x, y)` method that return the solution
 
 Your `pow()` method must be declared inside of `Main` and must be **public** and **static**.
 
-You can test your solution by running the commands below in your terminal.
+You can test your solution by running the command below in your terminal.
 
 ```
-./build.sh
 ./test.sh
 ```
 
