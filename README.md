@@ -87,7 +87,7 @@ For your assignment, create your own `pow(x, y)` method that return the solution
 * if y = 1, then $x^y$ = *x*
 * if y > 1, then $x^y$ = x1 * x2 * x3 * ... * xy. Ex: $2^3$ = 2 * 2 * 2 = 8.
 
-Your `pow()` method must be declared inside of `Main` and must be **public** and **static**.
+Your `pow(x, y)` method must be declared inside of `Main` and must be **public** and **static**.
 
 You can test your solution by running the command below in your terminal.
 
