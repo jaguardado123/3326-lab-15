@@ -97,4 +97,6 @@ You can test your solution by running the command below in your terminal.
 
 ## Submit your assignment
 
-To submit your lab assignment click on the source control icon (3 circles with 2 lines) on your leftside navbar. Next, click on the '+' symbol next to "Changes" to stage your changes. Lastly, add a commit message (ex: "First commit") and click "Commit" then "Push" or "Sync Changes". And you're done!
+[Grading Criteria](https://joselitoguardado.dev/3326/labs/Lab_15.pdf)
+
+[How to Submit Assignments to GitHub](https://joselitoguardado.dev/3326/How_to_Submit_Assignments_to_GitHub.pdf)
