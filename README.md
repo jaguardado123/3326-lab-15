@@ -78,16 +78,27 @@ For more examples and practice problems visit: https://www.w3schools.com/java/ja
 
 ## Your Program
 
-### Exponents (Power of) using Recursion
+### Creating Recursive Functions
 
-For your assignment, create your own `pow(x, y)` method that return the solution to $x^y$, however <ins>your solution must use **recursion**</ins>.
+Practice creating recursive functions in Java by copying and pasting the code below in your main() method. Complete the following 3 recursive functions.
 
-**Exponents $x^y$:**
-* if y = 0, then $x^y$ = 1
-* if y = 1, then $x^y$ = *x*
-* if y > 1, then $x^y$ = x1 * x2 * x3 * ... * xy. Ex: $2^3$ = 2 * 2 * 2 = 8.
+```java
 
-Your `pow(x, y)` method must be declared inside of `Main` and must be **static**.
+// Problem 1. Complete the recursive function pow() so that it returns x^y (x to the power of y).
+int pow( int x, int y ) {
+
+}
+
+// Problem 2. Complete the recursive function sumN() so that it returns the sum of all numbers from 1 to n.
+int sumN( int n ) {
+
+}
+
+// Problem 3. Complete the recursvie function search() so that it returns true if a certain String is found in the array.
+bool search( String[] words, String find, int index ) {
+
+}
+```
 
 You can test your solution by running the command below in your terminal.
 
