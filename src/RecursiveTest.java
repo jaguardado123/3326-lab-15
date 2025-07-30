@@ -26,10 +26,10 @@ public class RecursiveTest {
 	@Test
 	public void testing_search() {
 		// searching for "Howdy" should return false
-		String[] words = {"hello", "hey", "sup" "oi"};
+		String[] words = {"hello", "hey", "sup", "oi"};
 		assertEquals(false, Recursive.search(words, "Howdy", 0));
 		// searching for "grapes" should return true
-		String[] foods = {"apple", "orange", "grapes" "bananas"};
+		String[] foods = {"apple", "orange", "grapes", "bananas"};
 		assertEquals(true, Recursive.search(foods, "grapes", 0));
 		// searching for "hi" should return false
 		String[] empty = {};
