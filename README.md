@@ -85,17 +85,17 @@ Practice creating recursive functions in Java by copying and pasting the code be
 ```java
 
 // Problem 1. Complete the recursive function pow() so that it returns x^y (x to the power of y).
-int pow( int x, int y ) {
+static int pow( int x, int y ) {
 
 }
 
 // Problem 2. Complete the recursive function sumN() so that it returns the sum of all numbers from 1 to n.
-int sumN( int n ) {
+static int sumN( int n ) {
 
 }
 
 // Problem 3. Complete the recursvie function search() so that it returns true if a certain String is found in the array.
-bool search( String[] words, String find, int index ) {
+static boolean search( String[] words, String find, int index ) {
 
 }
 ```
