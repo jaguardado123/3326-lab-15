@@ -1,6 +1,6 @@
-# Lab Assignment 15
+# Lab 15
 
-In this lab you will practice working with recursion.
+In this lab you will practice working with **recursion**.
 
 Unlike previous labs, your class has already been created for you. 
 
